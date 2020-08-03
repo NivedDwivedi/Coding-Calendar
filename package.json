@@ -1,0 +1,16 @@
+{
+  "name": "code-calendar",
+  "version": "1.0.0",
+  "description": "coding calendar is a utility program which lists all the running,past and upcoming coding contest events happening all across the world. Your nodejs program should print all the contests as asked while running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nived Dwivedi",
+  "license": "ISC",
+  "dependencies": {
+    "await-to-js": "^2.1.1",
+    "axios": "^0.19.2",
+    "moment": "^2.27.0"
+  }
+}
